@@ -8,7 +8,8 @@
 ### - **Remove Metadata** (EXIF, file date):
   * less details to track you (see reasons listed above)
 ### - **Add Phone Number as splitted text label**
-       _CAUTION! Such labelling's against Avito rules, so your Ad can be blocked during moderation!_ In this case just delete it and create a new one with similar content - for now chances are good!
+       _CAUTION! Such labelling's against Avito rules, so your Ad can be blocked during moderation!_
+                 In this case just delete it and create a new one with similar content - for now chances are good!
   * to provide customers with sellers's direct contacts. Starting 2022, for major cities, Avito mandatory uses own proxy phone numbers to isolate customers from sellers. This approach allows them to analyse your phone conversations (!), to collect more data for accounts profiling, commercial targeting, moderating etc
 
 Text label splitted to three parts to hamper ML-driven moderation.
